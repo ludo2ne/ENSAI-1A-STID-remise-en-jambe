@@ -1,3 +1,14 @@
 # Remise à niveau STID
 
-TP1
+
+
+3h de TP pour revoir :
+
+* [ ] Variables et types
+* [ ] Conditions
+* [ ] Boucles
+* [ ] Fonction
+
+## :construction: TODO 
+
+* [ ] refaire l'énoncé en md
